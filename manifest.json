@@ -50,6 +50,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#38ada9",
   "background_color": "#38ada9"
 }
