@@ -42,7 +42,7 @@ body .sub-heading {
   font-family: Pacifico;
 }
 body .history {
-  position: absolute;
+  position: fixed;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,6 +56,7 @@ body .history {
   transition: all 250ms ease-in-out;
   -webkit-transform-origin: right bottom;
   transform-origin: right bottom;
+  overflow: scroll;
 }
 body .history .card {
   width: 90%;
