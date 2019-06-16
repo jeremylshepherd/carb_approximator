@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jeremylshepherd/carb_approximator/static/css/main.e0e85975.chunk.css",
-    "main.js": "/jeremylshepherd/carb_approximator/static/js/main.27f43573.chunk.js",
-    "main.js.map": "/jeremylshepherd/carb_approximator/static/js/main.27f43573.chunk.js.map",
-    "runtime~main.js": "/jeremylshepherd/carb_approximator/static/js/runtime~main.934a8a63.js",
-    "runtime~main.js.map": "/jeremylshepherd/carb_approximator/static/js/runtime~main.934a8a63.js.map",
-    "static/js/2.2520225e.chunk.js": "/jeremylshepherd/carb_approximator/static/js/2.2520225e.chunk.js",
-    "static/js/2.2520225e.chunk.js.map": "/jeremylshepherd/carb_approximator/static/js/2.2520225e.chunk.js.map",
-    "index.html": "/jeremylshepherd/carb_approximator/index.html",
-    "precache-manifest.e17e20268d74cd0d9ebffd425d9026cf.js": "/jeremylshepherd/carb_approximator/precache-manifest.e17e20268d74cd0d9ebffd425d9026cf.js",
-    "service-worker.js": "/jeremylshepherd/carb_approximator/service-worker.js",
-    "static/css/main.e0e85975.chunk.css.map": "/jeremylshepherd/carb_approximator/static/css/main.e0e85975.chunk.css.map",
-    "static/media/logo.svg": "/jeremylshepherd/carb_approximator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/jeremylshepherd/static/css/main.e0e85975.chunk.css",
+    "main.js": "/jeremylshepherd/static/js/main.eb3b981e.chunk.js",
+    "main.js.map": "/jeremylshepherd/static/js/main.eb3b981e.chunk.js.map",
+    "runtime~main.js": "/jeremylshepherd/static/js/runtime~main.25f1d519.js",
+    "runtime~main.js.map": "/jeremylshepherd/static/js/runtime~main.25f1d519.js.map",
+    "static/js/2.2520225e.chunk.js": "/jeremylshepherd/static/js/2.2520225e.chunk.js",
+    "static/js/2.2520225e.chunk.js.map": "/jeremylshepherd/static/js/2.2520225e.chunk.js.map",
+    "index.html": "/jeremylshepherd/index.html",
+    "precache-manifest.f7311bfd2b940c3c1f5233a1f43ee7ff.js": "/jeremylshepherd/precache-manifest.f7311bfd2b940c3c1f5233a1f43ee7ff.js",
+    "service-worker.js": "/jeremylshepherd/service-worker.js",
+    "static/css/main.e0e85975.chunk.css.map": "/jeremylshepherd/static/css/main.e0e85975.chunk.css.map",
+    "static/media/logo.svg": "/jeremylshepherd/static/media/logo.5d5d9eef.svg"
   }
 }
