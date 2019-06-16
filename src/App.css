@@ -29,6 +29,7 @@ body {
   background: linear-gradient(#38ada9, #257471, #133a38);
   background-attachment: fixed;
   -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 body h1 {
   font-size: 4vmax;
