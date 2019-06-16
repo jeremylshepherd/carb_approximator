@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carb_approximator/static/css/main.e0e85975.chunk.css",
-    "main.js": "/carb_approximator/static/js/main.85d40918.chunk.js",
-    "main.js.map": "/carb_approximator/static/js/main.85d40918.chunk.js.map",
+    "main.css": "/carb_approximator/static/css/main.2c429a63.chunk.css",
+    "main.js": "/carb_approximator/static/js/main.9766f638.chunk.js",
+    "main.js.map": "/carb_approximator/static/js/main.9766f638.chunk.js.map",
     "runtime~main.js": "/carb_approximator/static/js/runtime~main.56cf0ef5.js",
     "runtime~main.js.map": "/carb_approximator/static/js/runtime~main.56cf0ef5.js.map",
     "static/js/2.2520225e.chunk.js": "/carb_approximator/static/js/2.2520225e.chunk.js",
     "static/js/2.2520225e.chunk.js.map": "/carb_approximator/static/js/2.2520225e.chunk.js.map",
     "index.html": "/carb_approximator/index.html",
-    "precache-manifest.3f5e479f419388c62fced2b1ffbd0d0e.js": "/carb_approximator/precache-manifest.3f5e479f419388c62fced2b1ffbd0d0e.js",
+    "precache-manifest.dc262404739515d95ae04f85af912ee0.js": "/carb_approximator/precache-manifest.dc262404739515d95ae04f85af912ee0.js",
     "service-worker.js": "/carb_approximator/service-worker.js",
-    "static/css/main.e0e85975.chunk.css.map": "/carb_approximator/static/css/main.e0e85975.chunk.css.map",
+    "static/css/main.2c429a63.chunk.css.map": "/carb_approximator/static/css/main.2c429a63.chunk.css.map",
     "static/media/logo.svg": "/carb_approximator/static/media/logo.5d5d9eef.svg"
   }
 }
