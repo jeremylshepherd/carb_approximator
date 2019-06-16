@@ -140,6 +140,7 @@ class App extends React.Component {
               placeholder="Beer name"
               value={name}
               onChange={this.handleInput}
+              aria-label="Name input"
             />
             <input
               className="form-elements"
@@ -148,6 +149,7 @@ class App extends React.Component {
               placeholder="How many ounces"
               value={ounces}
               onChange={this.handleInput}
+              aria-label="Ounces input"
               required
             />
             <input
@@ -157,6 +159,7 @@ class App extends React.Component {
               placeholder="ABV%"
               value={abv}
               onChange={this.handleInput}
+              aria-label="ABV input"
               required
             />
             <input
@@ -166,11 +169,13 @@ class App extends React.Component {
               placeholder="Listed calories"
               value={calories}
               onChange={this.handleInput}
+              aria-label="Calories input"
               required
             />
             <button
               className="form-elements button"
               onClick={this.getAlcoholCalories}
+              aria-label="Calculate Carbs Button"
               disabled={!ounces || !abv || !calories ? true : false}
             >
               Get Estimate

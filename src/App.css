@@ -28,6 +28,7 @@ body {
   font-family: Archivo Black;
   background: linear-gradient(#38ada9, #257471, #133a38);
   background-attachment: fixed;
+  -webkit-touch-callout: none;
 }
 body h1 {
   font-size: 4vmax;

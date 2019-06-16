@@ -2,7 +2,7 @@
   "name": "carb_approximator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jeremylshepherd/carb_approximator",
+  "homepage": "https://jeremylshepherd.github.io/carb_approximator",
   "author": "Jeremy L. Shepherd",
   "dependencies": {
     "gh-pages": "^2.0.1",
