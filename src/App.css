@@ -13,6 +13,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background-color: #38ada9;
 }
 
 hr {
@@ -81,8 +82,8 @@ body .fa {
   padding: 15px;
   background: goldenrod;
   position: fixed;
-  right: 5px;
-  bottom: 5px;
+  right: 10px;
+  bottom: 10px;
   border-radius: 50%;
   box-shadow: -5px 5px 8px rgba(0, 0, 0, 0.5);
 }
