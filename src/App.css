@@ -13,6 +13,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background-color: #38ada9;
 }
 
 hr {
@@ -44,9 +45,10 @@ body .history {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  width: 100vw;
-  height: 100vh;
-  top: 0;
+  width: 101vw;
+  height: 135vh;
+  top: -25vh;
+  padding-top: 27.5vh;
   background: linear-gradient(#66a3ff, #005ce6, #000a1a);
   background-attachment: fixed;
   box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.5);
@@ -55,6 +57,7 @@ body .history {
   transform-origin: right bottom;
   overflow: scroll;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 body .history .card {
   width: 90%;
@@ -82,8 +85,8 @@ body .fa {
   padding: 15px;
   background: goldenrod;
   position: fixed;
-  right: 5px;
-  bottom: 5px;
+  right: 15px;
+  bottom: 15px;
   border-radius: 50%;
   box-shadow: -5px 5px 8px rgba(0, 0, 0, 0.5);
 }

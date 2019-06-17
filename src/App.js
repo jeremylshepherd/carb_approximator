@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "./components/Card";
-import logo from "./logo.svg";
 import "./App.css";
 
 class App extends React.Component {
