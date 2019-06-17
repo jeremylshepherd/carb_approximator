@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carb_approximator/static/css/main.6f2ef524.chunk.css",
+    "main.css": "/carb_approximator/static/css/main.0bf842c7.chunk.css",
     "main.js": "/carb_approximator/static/js/main.9766f638.chunk.js",
     "main.js.map": "/carb_approximator/static/js/main.9766f638.chunk.js.map",
     "runtime~main.js": "/carb_approximator/static/js/runtime~main.56cf0ef5.js",
@@ -8,9 +8,9 @@
     "static/js/2.2520225e.chunk.js": "/carb_approximator/static/js/2.2520225e.chunk.js",
     "static/js/2.2520225e.chunk.js.map": "/carb_approximator/static/js/2.2520225e.chunk.js.map",
     "index.html": "/carb_approximator/index.html",
-    "precache-manifest.e257b4d6dd867f92a3afa289afe51de8.js": "/carb_approximator/precache-manifest.e257b4d6dd867f92a3afa289afe51de8.js",
+    "precache-manifest.d916f8ceba4db7093095a99f2b947bcd.js": "/carb_approximator/precache-manifest.d916f8ceba4db7093095a99f2b947bcd.js",
     "service-worker.js": "/carb_approximator/service-worker.js",
-    "static/css/main.6f2ef524.chunk.css.map": "/carb_approximator/static/css/main.6f2ef524.chunk.css.map",
+    "static/css/main.0bf842c7.chunk.css.map": "/carb_approximator/static/css/main.0bf842c7.chunk.css.map",
     "static/media/logo.svg": "/carb_approximator/static/media/logo.5d5d9eef.svg"
   }
 }
